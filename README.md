@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aravind5Mukundam
-- 👀 I’m interested in Software Development, Web development.
-- 🌱 I’m currently learning Node.Js
+- 👀 I’m interested in Software Development, Frontend development.
+- 🌱 I’m currently learning Node.Js and NextJs
 - 💞️ I’m looking to collaborate on MERN Stack
 - 📫 How to reach me --> ping on my whatsApp 9642629585 or mail me on : mukundamaravind@gmail.com 
 <!---
